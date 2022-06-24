@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdThree it's Mohammad Al Hallaq
+- 👋 Hi, I’m @HBO30 it's Mohammad Al Hallaq
 - 👀 I’m interested in build dynamic and complex web apps follwing UI/UX best practice
 - 🌱 I’m currently learning react, nodejs  
 - 💞️ I’m looking to collaborate on javascript open source community 
